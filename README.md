@@ -1,0 +1,2 @@
+# Umos
+Mavi tik
